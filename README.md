@@ -19,7 +19,7 @@ install fastapi uvicorn
 
 3. Instale a extensão do MongoDB no vscode
 
-## ☕ Inicializando o back
+## ☕ Inicializando o projeto
 
 1. Abra um terminal específico para cada serviço do sistema (2 no total)
 
